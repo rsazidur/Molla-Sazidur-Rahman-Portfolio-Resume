@@ -46,12 +46,12 @@ const Home = () => {
 		<div class="nero_tm_mobile_menu_wrap">
    			<div class="mob_menu">
 				<ul class="anchor_nav">
-					<li><a href="#home">Home</a></li>
-					<li><a href="#about">About</a></li>
-					<li><a href="#services">Services</a></li>
-					<li><a href="#portfolio">Portfolio</a></li>
-					<li><a href="#news">News</a></li>
-					<li><a href="#contact">Contact</a></li>
+					<li><Link to="/">Home</Link></li>
+					<li><Link to="about">About</Link></li>
+					<li><Link to="services">Services</Link></li>
+					<li><Link to="portfolio">Portfolio</Link></li>
+					<li><Link to="news">News</Link></li>
+					<li><Link to="contact">Contact</Link></li>
 				</ul>
 			</div>
 		</div>
@@ -69,12 +69,12 @@ const Home = () => {
 				</div>
 				<div class="menu_list_wrap">
 					<ul class="anchor_nav">
-						<li><a href="#home">Home</a></li>
-						<li><a href="#about">About</a></li>
-						<li><a href="#services">Services</a></li>
-						<li><a href="#portfolio">Portfolio</a></li>
-						<li><a href="#news">News</a></li>
-						<li><a href="#contact">Contact</a></li>
+						<li><Link to="/">Home</Link></li>
+						<li><Link to="about">About</Link></li>
+						<li><Link to="services">Services</Link></li>
+						<li><Link to="portfolio">Portfolio</Link></li>
+						<li><Link to="news">News</Link></li>
+						<li><Link to="contact">Contact</Link></li>
 					</ul>
 				</div>
 				<div class="leftpart_bottom">
